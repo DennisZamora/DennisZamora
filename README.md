@@ -5,3 +5,20 @@
 
 📚 Actualmente estoy estudiando Ingeneria en Sistemas en la Universidad Fidelitas cursando mi penultimo cuatrimestre
 
+Conocimientos en:
+
+📌PHP              📌HTML5
+📌.Net FrameWork   📌CSS3
+📌.net Core        📌Selenium
+📌Java             📌TestNG
+📌MySQL            📌JUnit
+📌Oracle           📌JMetter
+📌SQL Server       📌Drupal
+
+
+
+
+
+
+
+
