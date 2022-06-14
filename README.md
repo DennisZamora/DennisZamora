@@ -8,6 +8,7 @@
 📚Experiencia laboral en:
 
 📌Grupo Rolosa: Desarrollo de software junior, con la utilizacion de DRUPAL,CSS,PHP,MySQL,AJAX,JavaScript.
+
 📌Grupo Syntepro: QA Tester
 
 📚Conocimientos en:
