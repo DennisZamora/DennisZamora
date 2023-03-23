@@ -1,15 +1,15 @@
 👨🏽‍💻 Dennis Zamora Araya
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-🎓 Ing. en Sistemas de Computacion
-
-📚 Actualmente estoy estudiando Ingeneria en Sistemas en la Universidad Fidelitas cursando mi ultimo cuatrimestre
+🎓 Ing. en Sistemas de Computacion con certificacion en base de datos
 
 📚Experiencia laboral en:
 
-📌Grupo Rolosa: Desarrollo de software junior, con la utilizacion de DRUPAL,CSS,PHP,MySQL,AJAX,JavaScript.
+📌Grupo Rolosa: Desarrollo de software junior
 
 📌Grupo Syntepro: QA Tester
+
+📌GTS:Desarrollo de software 
 
 📚Conocimientos en:
 
